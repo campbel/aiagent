@@ -1,0 +1,13 @@
+{
+    "prompt": "",
+    "data": [
+        {
+            "key": "Name",
+            "description": "The persons name"
+        },
+        {
+            "key": "Age",
+            "description": "The persons age"
+        }
+    ]
+}
